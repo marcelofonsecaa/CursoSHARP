@@ -1,0 +1,7 @@
+C:\Users\ma20044294\Documents\Visual Studio 2017\My Codes\Ex1\ExUri\bin\Debug\ExUri.exe.config
+C:\Users\ma20044294\Documents\Visual Studio 2017\My Codes\Ex1\ExUri\bin\Debug\ExUri.exe
+C:\Users\ma20044294\Documents\Visual Studio 2017\My Codes\Ex1\ExUri\bin\Debug\ExUri.pdb
+C:\Users\ma20044294\Documents\Visual Studio 2017\My Codes\Ex1\ExUri\obj\Debug\ExUri.csprojAssemblyReference.cache
+C:\Users\ma20044294\Documents\Visual Studio 2017\My Codes\Ex1\ExUri\obj\Debug\ExUri.csproj.CoreCompileInputs.cache
+C:\Users\ma20044294\Documents\Visual Studio 2017\My Codes\Ex1\ExUri\obj\Debug\ExUri.exe
+C:\Users\ma20044294\Documents\Visual Studio 2017\My Codes\Ex1\ExUri\obj\Debug\ExUri.pdb

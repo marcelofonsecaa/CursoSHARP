@@ -1,0 +1,7 @@
+C:\Users\ma20044294\Documents\Visual Studio 2017\My Codes\Ex1\Uri_Testes\bin\Debug\Uri_Testes.exe.config
+C:\Users\ma20044294\Documents\Visual Studio 2017\My Codes\Ex1\Uri_Testes\bin\Debug\Uri_Testes.exe
+C:\Users\ma20044294\Documents\Visual Studio 2017\My Codes\Ex1\Uri_Testes\bin\Debug\Uri_Testes.pdb
+C:\Users\ma20044294\Documents\Visual Studio 2017\My Codes\Ex1\Uri_Testes\obj\Debug\Uri_Testes.csprojAssemblyReference.cache
+C:\Users\ma20044294\Documents\Visual Studio 2017\My Codes\Ex1\Uri_Testes\obj\Debug\Uri_Testes.csproj.CoreCompileInputs.cache
+C:\Users\ma20044294\Documents\Visual Studio 2017\My Codes\Ex1\Uri_Testes\obj\Debug\Uri_Testes.exe
+C:\Users\ma20044294\Documents\Visual Studio 2017\My Codes\Ex1\Uri_Testes\obj\Debug\Uri_Testes.pdb

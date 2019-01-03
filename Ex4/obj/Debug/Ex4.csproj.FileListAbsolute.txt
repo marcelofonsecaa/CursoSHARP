@@ -1,0 +1,7 @@
+C:\Users\ma20044294\Documents\Visual Studio 2017\My Codes\Ex1\Ex4\bin\Debug\Ex4.exe.config
+C:\Users\ma20044294\Documents\Visual Studio 2017\My Codes\Ex1\Ex4\bin\Debug\Ex4.exe
+C:\Users\ma20044294\Documents\Visual Studio 2017\My Codes\Ex1\Ex4\bin\Debug\Ex4.pdb
+C:\Users\ma20044294\Documents\Visual Studio 2017\My Codes\Ex1\Ex4\obj\Debug\Ex4.csprojAssemblyReference.cache
+C:\Users\ma20044294\Documents\Visual Studio 2017\My Codes\Ex1\Ex4\obj\Debug\Ex4.csproj.CoreCompileInputs.cache
+C:\Users\ma20044294\Documents\Visual Studio 2017\My Codes\Ex1\Ex4\obj\Debug\Ex4.exe
+C:\Users\ma20044294\Documents\Visual Studio 2017\My Codes\Ex1\Ex4\obj\Debug\Ex4.pdb

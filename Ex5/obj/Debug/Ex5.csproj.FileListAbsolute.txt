@@ -1,0 +1,7 @@
+C:\Users\ma20044294\Documents\Visual Studio 2017\My Codes\Ex1\Ex5\bin\Debug\Ex5.exe.config
+C:\Users\ma20044294\Documents\Visual Studio 2017\My Codes\Ex1\Ex5\bin\Debug\Ex5.exe
+C:\Users\ma20044294\Documents\Visual Studio 2017\My Codes\Ex1\Ex5\bin\Debug\Ex5.pdb
+C:\Users\ma20044294\Documents\Visual Studio 2017\My Codes\Ex1\Ex5\obj\Debug\Ex5.csprojAssemblyReference.cache
+C:\Users\ma20044294\Documents\Visual Studio 2017\My Codes\Ex1\Ex5\obj\Debug\Ex5.csproj.CoreCompileInputs.cache
+C:\Users\ma20044294\Documents\Visual Studio 2017\My Codes\Ex1\Ex5\obj\Debug\Ex5.exe
+C:\Users\ma20044294\Documents\Visual Studio 2017\My Codes\Ex1\Ex5\obj\Debug\Ex5.pdb
