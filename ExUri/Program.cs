@@ -298,6 +298,229 @@ namespace ExUri
             //}
             #endregion
 
+            #region 15 Bhaskara
+            //double A, B, C, R1, R2, delta, raiz;
+
+            //string[] valores = Console.ReadLine().Split(' ');
+
+            //A = double.Parse(valores[0]);
+            //B = double.Parse(valores[1]);
+            //C = double.Parse(valores[2]);
+
+
+            //delta = (B * B) - (4 * A * C);
+            //raiz = Math.Sqrt(delta);
+            //if ((delta > 0) && (A != 0))
+            //{
+            //    R1 = ((-(B)) + raiz) / (2 * A);
+            //    R2 = ((-(B)) - raiz) / (2 * A);
+
+            //    Console.WriteLine("R1 = " + R1.ToString("F5"));
+            //    Console.WriteLine("R2 = " + R2.ToString("F5"));
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Impossivel Calcular");
+            //}
+            //Console.ReadKey();
+            #endregion
+
+            #region 16 Intervalo
+
+            //double a;
+
+            //a = double.Parse(Console.ReadLine());
+
+            //if (a >= 0 && a <= 25)
+            //{
+            //    Console.WriteLine("Intervalo [0,25]");
+            //}
+            //else if (a > 25 && a <= 50)
+            //{
+            //    Console.WriteLine("Intervalo (25,50]");
+            //}
+            //else if (a > 50 && a <= 75)
+            //{
+            //    Console.WriteLine("Intervalo (50,75]");
+            //}
+            //else if (a > 75 && a <= 100)
+            //{
+            //    Console.WriteLine("Intervalo (75,100]");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Fora de intervalo");
+
+            //}
+            //Console.ReadKey();
+            #endregion
+
+            #region 17 Lanchonete
+            //int a, b;
+            //double total;
+
+            //string[] valores = Console.ReadLine().Split(' ');
+
+            //a = int.Parse(valores[0]);
+            //b = int.Parse(valores[1]);
+
+            //switch (a)
+
+            //{
+            //    case 1:
+            //        total = b * 4.00;
+            //       Console.WriteLine("Total: R$ " + total.ToString("F2"));
+            //        break;
+
+            //    case 2:
+            //        total = b * 4.50;
+            //        Console.WriteLine("Total: R$ " + total.ToString("F2"));
+            //        break;
+
+            //    case 3:
+            //        total = b * 5.00;
+            //        Console.WriteLine("Total: R$ " + total.ToString("F2"));
+            //        break;
+
+            //    case 4:
+            //        total = b * 2.00;
+            //        Console.WriteLine("Total: R$ " + total.ToString("F2"));
+            //        break;
+
+            //    case 5:
+            //        total = b * 1.50;
+            //        Console.WriteLine("Total: R$ " + total.ToString("F2"));
+            //        break;
+            //    default:
+            //        break;
+            //}
+            //Console.ReadKey();
+            #endregion
+
+            #region 18 Media aluno
+            //double n1, n2, n3, n4, media, exame, examefinal;
+
+            //string[] valores = Console.ReadLine().Split(' ');
+
+            //n1 = double.Parse(valores[0]);
+            //n2 = double.Parse(valores[1]);
+            //n3 = double.Parse(valores[2]);
+            //n4 = double.Parse(valores[3]);
+
+            //media = (n1 * 2 + n2 * 3 + n3 * 4 + n4 * 1) / 10;
+
+            //Console.WriteLine("Media: " + media.ToString("F1"));
+
+            //if (media >= 7)
+            //{
+            //    Console.WriteLine("Aluno aprovado.");
+            //}
+            //else if (media < 5)
+            //{
+            //    Console.WriteLine("Aluno reprovado.");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Aluno em exame.");
+            //    exame = Convert.ToDouble(Console.ReadLine());
+            //    examefinal = (exame + media) / 2;
+            //    Console.WriteLine("Nota do exame: " + exame.ToString("F1"));
+            //    Console.WriteLine("Aluno aprovado.");
+            //    Console.WriteLine("Media final: " + examefinal.ToString("F1"));
+            //}
+            //Console.ReadLine();
+            #endregion
+
+            #region  19 Quadrantes
+
+            //double x, y;
+
+            //x = double.Parse(Console.ReadLine());
+            //y = double.Parse(Console.ReadLine());
+
+            //if (x > 0 && y > 0)
+            //{
+            //    Console.WriteLine("Q1");
+            //}
+            //else if (x < 0 && y < 0 )
+            //{
+            //    Console.WriteLine("Q3");
+            //}
+            //else if ( x > 0 && y < 0 )
+            //{
+            //    Console.WriteLine("Q4");
+            //}
+            //else if ( x < 0 && y > 0)
+            //{
+            //    Console.WriteLine("Q2");
+            //}
+            //else if ( x == 0 && y == 0)
+            //{
+            //    Console.WriteLine("Origem");
+            //}
+            //else if (x == 0)
+            //{
+            //    Console.WriteLine("Eixo X");
+            //}
+            //else 
+            //{
+            //    Console.WriteLine("Eixo Y");
+            //}
+            //Console.ReadKey();
+            #endregion
+
+            #region 20 Sort
+
+            double a, b, c;
+
+            string[] valores = Console.ReadLine().Split(' ');
+
+            a = double.Parse(valores[0]);
+            b = double.Parse(valores[1]);
+            c = double.Parse(valores[2]);
+
+            if (a < b && b < c)
+            {
+                Console.WriteLine(a);
+                Console.WriteLine(b);
+                Console.WriteLine(c);
+            }
+            else if (a < c && c < b)
+            {
+                Console.WriteLine(c);
+                Console.WriteLine(a);
+                Console.WriteLine(b);
+            }
+            else if (b < a && a < c)
+            {
+                Console.WriteLine(b);
+                Console.WriteLine(a);
+                Console.WriteLine(c);
+            }
+            else if (b < c && c < a)
+            {
+                Console.WriteLine(b);
+                Console.WriteLine(c);
+                Console.WriteLine(a);
+            }
+            else if (c < a && a < b)
+            {
+                Console.WriteLine(c);
+                Console.WriteLine(a);
+                Console.WriteLine(b);
+            }
+            else
+            {
+                Console.WriteLine(c);
+                Console.WriteLine(b);
+                Console.WriteLine(a);
+            }
+                 Console.WriteLine("\n" + a);
+                 Console.WriteLine(b);
+                 Console.WriteLine(c);
+
+                 Console.ReadKey();
+            #endregion
 
 
         }
